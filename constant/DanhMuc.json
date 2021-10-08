@@ -1,0 +1,516 @@
+[
+ 
+  {
+    "id": 1,
+    "name": "Pizza",
+    "thutu": 1,
+    "sanpham": [
+      {
+        "idSanPham": 1,
+        "idDanhMuc": 1,
+        "nameSanPham": "Kimci QQB chicken",
+        "image": "https://img.lovepik.com/photo/50093/2958.jpg_wh860.jpg",
+        "gia": [
+          {
+            "idGia": 1,
+            "nameGia": "Kích Thước 13.5cm",
+            "giaban": 109,
+            "giahienthi": true
+          },
+          {
+            "idGia": 2,
+            "nameGia": "Kích Thước 9cm",
+            "giaban": 150,
+            "giahienthi": false
+          },
+          {
+            "idGia": 3,
+            "nameGia": "Kích Thước 7cm",
+            "giaban": 175,
+            "giahienthi": false
+          }
+        ],
+        "mota": "Rau xanh trộn với cá ngừ, thịt xông khói, đậu Pháp, khoai tây, bắp",
+        "addOns": [
+          {
+            "idAdd": 1,
+            "nameAdd": "Thêm con gà",
+            "giaadd": 100,
+            "luachon": false
+          },
+          {
+            "idAdd": 2,
+            "nameAdd": "Thêm con lợn",
+            "giaadd": 200,
+            "luachon": false
+          }
+        ]
+      },
+      {
+        "idSanPham": 2,
+        "idDanhMuc": 1,
+        "nameSanPham": "Pizza con gà",
+        "image": "https://img.lovepik.com/photo/50093/2958.jpg_wh860.jpg",
+        "gia": [
+          {
+            "idGia": 1,
+            "nameGia": "Kích Thước 13.5cm",
+            "giaban": 109,
+            "giahienthi": true
+          },
+          {
+            "idGia": 2,
+            "nameGia": "Kích Thước 9cm",
+            "giaban": 150,
+            "giahienthi":false
+          },
+          {
+            "idGia": 3,
+            "nameGia": "Kích Thước 7cm",
+            "giaban": 175,
+            "giahienthi":false
+          }
+        ],
+        "mota": "Rau xanh trộn với cá ngừ, thịt xông khói, đậu Pháp, khoai tây, bắp",
+        "addOns": [
+          {
+            "idAdd": 1,
+            "nameAdd": "Thêm con gà",
+            "giaadd": 100,
+            "luachon": false
+          },
+          {
+            "idAdd": 2,
+            "nameAdd": "Thêm con lợn",
+            "giaadd": 200,
+            "luachon": false
+          }
+        ]
+      },
+      {
+        "idSanPham": 3,
+        "idDanhMuc": 1,
+        "nameSanPham": "Pizz con bò",
+        "image": "https://img.lovepik.com/photo/50093/2958.jpg_wh860.jpg",
+        "gia": [
+          {
+            "idGia": 1,
+            "nameGia": "Kích Thước 13.5cm",
+            "giaban": 109,
+            "giahienthi": true
+          },
+          {
+            "idGia": 2,
+            "nameGia": "Kích Thước 9cm",
+            "giaban": 150,
+            "giahienthi": false
+          },
+          {
+            "idGia": 3,
+            "nameGia": "Kích Thước 7cm",
+            "giaban": 175,
+            "giahienthi": false
+          }
+        ],
+        "mota": "Rau xanh trộn với cá ngừ, thịt xông khói, đậu Pháp, khoai tây, bắp",
+        "addOns": [
+          {
+            "idAdd": 1,
+            "nameAdd": "Thêm con gà",
+            "giaadd": 100,
+            "luachon": false
+          },
+          {
+            "idAdd": 2,
+            "nameAdd": "Thêm con lợn",
+            "giaadd": 200,
+            "luachon": false
+          }
+        ]
+      },
+      {
+        "idSanPham": 4,
+        "idDanhMuc": 1,
+        "nameSanPham": "Kimci QQB chicken",
+        "image": "https://img.lovepik.com/photo/50093/2958.jpg_wh860.jpg",
+        "gia": [
+          {
+            "idGia": 1,
+            "nameGia": "Kích Thước 13.5cm",
+            "giaban": 109,
+            "giahienthi": true
+          },
+          {
+            "idGia": 2,
+            "nameGia": "Kích Thước 9cm",
+            "giaban": 150,
+            "giahienthi": false
+          },
+          {
+            "idGia": 3,
+            "nameGia": "Kích Thước 7cm",
+            "giaban": 175,
+            "giahienthi":false
+          }
+        ],
+        "mota": "Rau xanh trộn với cá ngừ, thịt xông khói, đậu Pháp, khoai tây, bắp",
+        "addOns": [
+          {
+            "idAdd": 1,
+            "nameAdd": "Thêm con gà",
+            "giaadd": 100,
+            "luachon": false
+          },
+          {
+            "idAdd": 2,
+            "nameAdd": "Thêm con lợn",
+            "giaadd": 200,
+            "luachon": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Pasta",
+    "thutu": 2,
+    "sanpham": [
+      {
+        "idSanPham": 1,
+        "idDanhMuc": 2,
+        "nameSanPham": "Mỳ ống siêu dẻo",
+        "image": "https://khoahocphattrien.vn/Images/Uploaded/Share/2018/04/09/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzA5OS8yMzUvb3JpZ2luYWwvcGFzdGEtZ2VuZXJpYy5qcGc.jpg",
+        "gia": [
+          {
+            "idGia": 1,
+            "nameGia": "Đĩa 13.5cm",
+            "giaban": 109,
+            "giahienthi": true
+          },
+          {
+            "idGia": 2,
+            "nameGia": "Đĩa 9cm",
+            "giaban": 150,
+            "giahienthi": false
+          },
+          {
+            "idGia": 3,
+            "nameGia": "Đĩa 7cm",
+            "giaban": 175,
+            "giahienthi":false
+          }
+        ],
+        "mota": "Rau xanh trộn với cá ngừ, thịt xông khói, đậu Pháp, khoai tây, bắp",
+        "addOns": [
+          {
+            "idAdd": 1,
+            "nameAdd": "Thêm Tương ớt",
+            "giaadd": 100,
+            "luachon": false
+          },
+          {
+            "idAdd": 2,
+            "nameAdd": "Thêm Sốt",
+            "giaadd": 200,
+            "luachon": false
+          }
+        ]
+      },
+      {
+        "idSanPham": 2,
+        "idDanhMuc": 2,
+        "nameSanPham": "Mỳ ống siêu cay",
+        "image": "https://khoahocphattrien.vn/Images/Uploaded/Share/2018/04/09/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzA5OS8yMzUvb3JpZ2luYWwvcGFzdGEtZ2VuZXJpYy5qcGc.jpg",
+        "gia": [
+          {
+            "idGia": 1,
+            "nameGia": "Đĩa 13.5cm",
+            "giaban": 109,
+            "giahienthi": true
+          },
+          {
+            "idGia": 2,
+            "nameGia": "Đĩa 9cm",
+            "giaban": 150,
+            "giahienthi": false
+          },
+          {
+            "idGia": 3,
+            "nameGia": "Đĩa 7cm",
+            "giaban": 175,
+            "giahienthi": false
+          }
+        ],
+        "mota": "Rau xanh trộn với cá ngừ, thịt xông khói, đậu Pháp, khoai tây, bắp",
+        "addOns": [
+          {
+            "idAdd": 1,
+            "nameAdd": "Thêm Tương ớt",
+            "giaadd": 100,
+            "luachon": false
+          },
+          {
+            "idAdd": 2,
+            "nameAdd": "Thêm Sốt",
+            "giaadd": 200,
+            "luachon": false
+          }
+        ]
+      },
+      {
+        "idSanPham": 3,
+        "idDanhMuc": 2,
+        "nameSanPham": "Mỳ ống siêu nhạt",
+        "image": "https://khoahocphattrien.vn/Images/Uploaded/Share/2018/04/09/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzA5OS8yMzUvb3JpZ2luYWwvcGFzdGEtZ2VuZXJpYy5qcGc.jpg",
+        "gia": [
+          {
+            "idGia": 1,
+            "nameGia": "Đĩa 13.5cm",
+            "giaban": 109,
+            "giahienthi": true
+          },
+          {
+            "idGia": 2,
+            "nameGia": "Đĩa 9cm",
+            "giaban": 150,
+            "giahienthi":false
+          },
+          {
+            "idGia": 3,
+            "nameGia": "Đĩa 7cm",
+            "giaban": 175,
+            "giahienthi":false
+          }
+        ],
+        "mota": "Rau xanh trộn với cá ngừ, thịt xông khói, đậu Pháp, khoai tây, bắp",
+        "addOns": [
+          {
+            "idAdd": 1,
+            "nameAdd": "Thêm Tương ớt",
+            "giaadd": 100,
+            "luachon": false
+          },
+          {
+            "idAdd": 2,
+            "nameAdd": "Thêm Sốt",
+            "giaadd": 200,
+            "luachon": false
+          }
+        ]
+      },
+      {
+        "idSanPham": 4,
+        "idDanhMuc": 2,
+        "nameSanPham": "Mỳ ống siêu chua",
+        "image": "https://khoahocphattrien.vn/Images/Uploaded/Share/2018/04/09/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzA5OS8yMzUvb3JpZ2luYWwvcGFzdGEtZ2VuZXJpYy5qcGc.jpg",
+        "gia": [
+          {
+            "idGia": 1,
+            "nameGia": "Đĩa 13.5cm",
+            "giaban": 109,
+            "giahienthi": true
+          },
+          {
+            "idGia": 2,
+            "nameGia": "Đĩa 9cm",
+            "giaban": 150,
+            "giahienthi": false
+          },
+          {
+            "idGia": 3,
+            "nameGia": "Đĩa 7cm",
+            "giaban": 175,
+            "giahienthi": false
+          }
+        ],
+        "mota": "Rau xanh trộn với cá ngừ, thịt xông khói, đậu Pháp, khoai tây, bắp",
+        "addOns": [
+          {
+            "idAdd": 1,
+            "nameAdd": "Thêm Tương ớt",
+            "giaadd": 100,
+            "luachon": false
+          },
+          {
+            "idAdd": 2,
+            "nameAdd": "Thêm Sốt",
+            "giaadd": 200,
+            "luachon": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Drinks",
+    "thutu": 3,
+    "sanpham": [
+      {
+        "idSanPham": 1,
+        "idDanhMuc": 3,
+        "nameSanPham": "Pes Si",
+        "image": "https://cdn.tgdd.vn/Products/Images/2443/125398/bhx/6-lon-nuoc-ngot-coca-cola-320ml-202103162325321991.jpg",
+        "gia": [
+          {
+            "idGia": 1,
+            "nameGia": "3 Lon",
+            "giaban": 109,
+            "giahienthi": true
+          },
+          {
+            "idGia": 2,
+            "nameGia": "2 Lon",
+            "giaban": 150,
+            "giahienthi":false
+          },
+          {
+            "idGia": 3,
+            "nameGia": "1 Lon",
+            "giaban": 175,
+            "giahienthi":false
+          }
+        ],
+        "mota": "Rau xanh trộn với cá ngừ, thịt xông khói, đậu Pháp, khoai tây, bắp",
+        "addOns": [
+          {
+            "idAdd": 1,
+            "nameAdd": "Thêm ống hút",
+            "giaadd": 100,
+            "luachon": false
+          },
+          {
+            "idAdd": 2,
+            "nameAdd": "Thêm Cốc",
+            "giaadd": 200,
+            "luachon": false
+          }
+        ]
+      },
+      {
+        "idSanPham": 2,
+        "idDanhMuc": 3,
+        "nameSanPham": "7 Lên",
+        "image": "https://cdn.tgdd.vn/Products/Images/2443/125398/bhx/6-lon-nuoc-ngot-coca-cola-320ml-202103162325321991.jpg",
+        "gia": [
+          {
+            "idGia": 1,
+            "nameGia": "3 Lon",
+            "giaban": 109,
+            "giahienthi": true
+          },
+          {
+            "idGia": 2,
+            "nameGia": "2 Lon",
+            "giaban": 150,
+            "giahienthi":false
+          },
+          {
+            "idGia": 3,
+            "nameGia": "1 Lon",
+            "giaban": 175,
+            "giahienthi":false
+          }
+        ],
+        "mota": "Rau xanh trộn với cá ngừ, thịt xông khói, đậu Pháp, khoai tây, bắp",
+        "addOns": [
+          {
+            "idAdd": 1,
+            "nameAdd": "Thêm ống hút",
+            "giaadd": 100,
+            "luachon": false
+          },
+          {
+            "idAdd": 2,
+            "nameAdd": "Thêm Cốc",
+            "giaadd": 200,
+            "luachon": false
+          }
+        ]
+      },
+      {
+        "idSanPham": 3,
+        "idDanhMuc": 3,
+        "nameSanPham": "Cam ép",
+        "image": "https://cdn.tgdd.vn/Products/Images/2443/125398/bhx/6-lon-nuoc-ngot-coca-cola-320ml-202103162325321991.jpg",
+        "gia": [
+          {
+            "idGia": 1,
+            "nameGia": "3 Lon",
+            "giaban": 109,
+            "giahienthi": true
+          },
+          {
+            "idGia": 2,
+            "nameGia": "2 Lon",
+            "giaban": 150,
+            "giahienthi":false
+          },
+          {
+            "idGia": 3,
+            "nameGia": "1 Lon",
+            "giaban": 175,
+            "giahienthi": false
+          }
+        ],
+        "mota": "Rau xanh trộn với cá ngừ, thịt xông khói, đậu Pháp, khoai tây, bắp",
+        "addOns": [
+          {
+            "idAdd": 1,
+            "nameAdd": "Thêm ống hút",
+            "giaadd": 100,
+            "luachon": false
+          },
+          {
+            "idAdd": 2,
+            "nameAdd": "Thêm Cốc",
+            "giaadd": 200,
+            "luachon": false
+          }
+        ]
+      },
+      {
+        "idSanPham": 4,
+        "idDanhMuc": 3,
+        "nameSanPham": "Cô hét Cô la",
+        "image": "https://cdn.tgdd.vn/Products/Images/2443/125398/bhx/6-lon-nuoc-ngot-coca-cola-320ml-202103162325321991.jpg",
+        "gia": [
+          {
+            "idGia": 1,
+            "nameGia": "3 Lon",
+            "giaban": 109,
+            "giahienthi": true
+          },
+          {
+            "idGia": 2,
+            "nameGia": "2 Lon",
+            "giaban": 150,
+            "giahienthi":false
+          },
+          {
+            "idGia": 3,
+            "nameGia": "1 Lon",
+            "giaban": 175,
+            "giahienthi": false
+          }
+        ],
+        "mota": "Rau xanh trộn với cá ngừ, thịt xông khói, đậu Pháp, khoai tây, bắp",
+        "addOns": [
+          {
+            "idAdd": 1,
+            "nameAdd": "Thêm ống hút",
+            "giaadd": 100,
+            "luachon": false
+          },
+          {
+            "idAdd": 2,
+            "nameAdd": "Thêm Cốc",
+            "giaadd": 200,
+            "luachon": false
+          }
+        ]
+      }
+    ]
+  }
+]
